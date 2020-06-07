@@ -1,0 +1,71 @@
+{
+    "fields": {
+        "title": {
+            "name": "title",
+            "type": "text",
+            "localize": false,
+            "options": {
+                "slug": true
+            }
+        },
+        "date": {
+            "name": "date",
+            "type": "date",
+            "localize": false,
+            "options": []
+        },
+        "language": {
+            "name": "language",
+            "type": "select",
+            "localize": false,
+            "options": {
+                "options": "Português, English, Français",
+                "default": "Português"
+            }
+        },
+        "category": {
+            "name": "category",
+            "type": "select",
+            "localize": false,
+            "options": {
+                "default": "Notícias",
+                "options": "Notícias, Saúde Global, Doenças Crônicas"
+            }
+        },
+        "image": {
+            "name": "image",
+            "type": "asset",
+            "localize": false,
+            "options": []
+        },
+        "excerpt": {
+            "name": "excerpt",
+            "type": "text",
+            "localize": false,
+            "options": []
+        },
+        "content": {
+            "name": "content",
+            "type": "wysiwyg",
+            "localize": false,
+            "options": []
+        },
+        "tags": {
+            "name": "tags",
+            "type": "tags-autoupdate",
+            "localize": false,
+            "options": []
+        },
+        "published": {
+            "name": "published",
+            "type": "boolean",
+            "localize": false,
+            "options": {
+                "default": false,
+                "label": false
+            }
+        }
+    },
+    "entries": [],
+    "total": 0
+}
