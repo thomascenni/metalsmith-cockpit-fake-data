@@ -1,71 +1,356 @@
 {
     "fields": {
-        "title": {
-            "name": "title",
-            "type": "text",
-            "localize": false,
-            "options": {
-                "slug": true
-            }
-        },
-        "date": {
-            "name": "date",
-            "type": "date",
-            "localize": false,
-            "options": []
-        },
-        "language": {
-            "name": "language",
-            "type": "select",
-            "localize": false,
-            "options": {
-                "options": "Português, English, Français",
-                "default": "Português"
-            }
-        },
-        "category": {
-            "name": "category",
-            "type": "select",
-            "localize": false,
-            "options": {
-                "default": "Notícias",
-                "options": "Notícias, Saúde Global, Doenças Crônicas"
-            }
-        },
-        "image": {
-            "name": "image",
-            "type": "asset",
-            "localize": false,
-            "options": []
-        },
-        "excerpt": {
-            "name": "excerpt",
-            "type": "text",
-            "localize": false,
-            "options": []
-        },
-        "content": {
-            "name": "content",
-            "type": "wysiwyg",
-            "localize": false,
-            "options": []
-        },
-        "tags": {
-            "name": "tags",
-            "type": "tags-autoupdate",
-            "localize": false,
-            "options": []
-        },
-        "published": {
-            "name": "published",
-            "type": "boolean",
-            "localize": false,
-            "options": {
-                "default": false,
-                "label": false
-            }
+      "title": {
+        "name": "title",
+        "type": "text",
+        "localize": false,
+        "options": {
+          "slug": true
         }
+      },
+      "date": {
+        "name": "date",
+        "type": "date",
+        "localize": false,
+        "options": []
+      },
+      "language": {
+        "name": "language",
+        "type": "select",
+        "localize": false,
+        "options": {
+          "options": "Português, English, Français",
+          "default": "Português"
+        }
+      },
+      "category": {
+        "name": "category",
+        "type": "select",
+        "localize": false,
+        "options": {
+          "default": "Technology",
+          "options": "Technology, Health & Medicine, Geography & Travel"
+        }
+      },
+      "image": {
+        "name": "image",
+        "type": "asset",
+        "localize": false,
+        "options": []
+      },
+      "excerpt": {
+        "name": "excerpt",
+        "type": "text",
+        "localize": false,
+        "options": []
+      },
+      "content": {
+        "name": "content",
+        "type": "wysiwyg",
+        "localize": false,
+        "options": []
+      },
+      "tags": {
+        "name": "tags",
+        "type": "tags-autoupdate",
+        "localize": false,
+        "options": []
+      },
+      "published": {
+        "name": "published",
+        "type": "boolean",
+        "localize": false,
+        "options": {
+          "default": false,
+          "label": false
+        }
+      }
     },
-    "entries": [],
-    "total": 0
-}
+    "entries": [
+      {
+        "title": "Particle accelerator",
+        "date": "2020-06-08",
+        "language": "English",
+        "category": "Technology",
+        "image": {
+          "path": "\/2020\/06\/08\/5ede9338d517eaccelerator-field-drift-tubes-proton-resonance-diagram.jpg",
+          "title": "accelerator-field-drift-tubes-proton-resonance-diagram.jpg",
+          "mime": "image\/jpeg",
+          "description": "",
+          "tags": [],
+          "size": 19648,
+          "image": true,
+          "video": false,
+          "audio": false,
+          "archive": false,
+          "document": false,
+          "code": false,
+          "created": 1591644984,
+          "modified": 1591644984,
+          "_by": "5d1aa3003735643b040000b4",
+          "width": 700,
+          "height": 194,
+          "colors": [
+            "#d3a98f",
+            "#4c6879",
+            "#e0edf4",
+            "#b4492c",
+            "#c0663a"
+          ],
+          "folder": "",
+          "_id": "5ede93384697a96c09764142"
+        },
+        "excerpt": "Particle accelerator, any device that produces a beam of fast-moving, electrically charged atomic or subatomic particles. ",
+        "content": "<p><strong>Particle accelerator<\/strong>, any device that produces a beam of fast-moving, electrically charged&nbsp;<span id=\"ref364959\"><\/span>atomic or&nbsp;<span id=\"ref364961\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/subatomic-particle\">subatomic particles<\/a>. Physicists use accelerators in fundamental research on the structure of&nbsp;<span id=\"ref364960\"><\/span>nuclei, the nature of nuclear forces, and the properties of nuclei not found in nature, as in the&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/transuranium-element\">transuranium elements<\/a>&nbsp;and other unstable elements. Accelerators are also used for&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/isotope\/The-discovery-of-isotopes#ref48251\">radioisotope<\/a>&nbsp;production, industrial&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/technology-of-photography\/Ultraviolet-photography#ref36531\">radiography<\/a>,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/radiation-therapy\">radiation therapy<\/a>,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/sterilization-medicine\">sterilization<\/a>&nbsp;of biological materials, and a certain form of&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/carbon-14-dating\">radiocarbon dating<\/a>. The largest accelerators are used in research on the&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/fundamental-interaction\">fundamental interactions<\/a> of the elementary subatomic particles.<\/p>\n<section id=\"ref1\" data-level=\"1\" data-has-spy=\"true\">\n<p>This article reviews the development of accelerators and&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/delineates\" data-term=\"delineates\">delineates<\/a>&nbsp;the various types and their distinguishing features. For specific information about the particles accelerated by these devices,&nbsp;<em>see<\/em>&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/atom\">atom<\/a>&nbsp;and&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/subatomic-particle\">subatomic particle<\/a>.<\/p>\n<\/section>\n<div class=\"md-sentinel--spy-target\">&nbsp;<\/div>\n<section id=\"ref60506\" data-level=\"1\" data-has-spy=\"true\">\n<h2 class=\"h1\">Principles Of Particle Acceleration<\/h2>\n<p>Particle accelerators exist in many shapes and sizes (even the&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/ubiquitous\" data-term=\"ubiquitous\">ubiquitous<\/a>&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/television-technology\">television<\/a>&nbsp;<span id=\"ref891510\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/television-picture-tube\">picture tube<\/a>&nbsp;is in principle a particle accelerator), but the smallest accelerators share common elements with the larger devices. First, all accelerators must have a source that generates electrically charged particles&mdash;<span id=\"ref891511\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/electron\">electron<\/a>s in the case of the television tube and electrons,&nbsp;<span id=\"ref891514\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/proton-subatomic-particle\">proton<\/a>s, and their&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/antimatter\">antiparticles<\/a>&nbsp;in the case of larger accelerators. All accelerators must have&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/electric-field\">electric field<\/a>s to accelerate the particles, and they must have&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/magnetic-field\">magnetic field<\/a>s to control the paths of the particles. Also, the particles must travel through a good vacuum&mdash;that is, in a container with as little residual air as possible, as in a television tube. Finally, all accelerators must have some means of detecting, counting, and measuring the particles after they have been accelerated through the&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/science\/vacuum-physics\">vacuum<\/a>.<\/p>\n<section id=\"ref255893\" data-level=\"2\" data-has-spy=\"true\">\n<h2 class=\"h2\">Generating particles<\/h2>\n<p>Electrons and protons, the particles most commonly used in accelerators, are found in all materials, but for an accelerator the appropriate particles must be separated out. Electrons are usually produced in exactly the same way as in a television picture tube, in a device known as an&nbsp;<span id=\"ref891525\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/electron-gun\">electron &ldquo;gun.&rdquo;<\/a>&nbsp;The gun contains a&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/cathode\">cathode<\/a>&nbsp;(negative electrode) in a vacuum, which is heated so that electrons break away from the atoms in the cathode material. The emitted electrons, which are negatively charged, are attracted toward an&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/anode\">anode<\/a>&nbsp;(positive electrode), where they pass through a hole. The gun itself is in effect a simple accelerator, because the electrons move through an electric field, as described below. The voltage between the cathode and the anode in an&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/technology\/electron-gun\">electron gun<\/a>&nbsp;is typically 50,000&ndash;150,000&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/volt-unit-of-measurement\">volt<\/a>s, or 50&ndash;150 kilovolts (kV).<\/p>\n<p>As with electrons, there are protons in all materials, but only the nuclei of&nbsp;<span id=\"ref891531\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/hydrogen\">hydrogen<\/a>&nbsp;atoms consist of single protons, so hydrogen gas is the source of particles for proton accelerators. In this case the gas is ionized&mdash;the electrons and protons are separated in an electric field&mdash;and the protons escape through a hole. In large high-energy particle accelerators, protons are often produced initially in the form of negative hydrogen&nbsp;<span id=\"ref891532\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/ion-physics\">ion<\/a>s. These are hydrogen atoms with an extra electron, which are also formed when the gas, originally in the form of molecules of two atoms, is ionized. Negative hydrogen ions prove easier to handle in the initial stages of large accelerators. They are later passed through thin foils to strip off the electrons before the protons move to the final stage of acceleration.<\/p>\n<\/section>\n<\/section>",
+        "tags": [
+          "electron",
+          "cathode",
+          "anode"
+        ],
+        "published": true,
+        "title_slug": "particle-accelerator",
+        "_mby": "5d1aa3003735643b040000b4",
+        "_by": "5d1aa3003735643b040000b4",
+        "_modified": 1591645112,
+        "_created": 1591645112,
+        "_id": "5ede93b8f7fbc766e80b1a25"
+      },
+      {
+        "title": "Alan Turing, BRITISH MATHEMATICIAN AND LOGICIAN",
+        "date": "2020-06-08",
+        "language": "English",
+        "category": "Technology",
+        "image": {
+          "path": "\/2020\/06\/08\/5ede9271ec3bc0003419256.jpg",
+          "title": "0003419256.jpg",
+          "mime": "image\/jpeg",
+          "description": "",
+          "tags": [],
+          "size": 44968,
+          "image": true,
+          "video": false,
+          "audio": false,
+          "archive": false,
+          "document": false,
+          "code": false,
+          "created": 1591644785,
+          "modified": 1591644785,
+          "_by": "5d1aa3003735643b040000b4",
+          "width": 770,
+          "height": 433,
+          "colors": [
+            "#8c8a75",
+            "#232921",
+            "#e8debb",
+            "#4c4c3c",
+            "#4c443c"
+          ],
+          "folder": "",
+          "_id": "5ede9272444e401398335c34"
+        },
+        "excerpt": "Alan Turing , in full Alan Mathison Turing, (born June 23, 1912, London, England—died June 7, 1954, Wilmslow, Cheshire), British mathematician and logician, who made major contributions to mathematics, cryptanalysis, logic, philosophy, and mathematical biology and also to the new areas later named computer science, cognitive science, artificial intelligence, and artificial life.",
+        "content": "<p><strong>Alan Turing&nbsp;<\/strong>, in full&nbsp;<strong>Alan Mathison Turing<\/strong>, (born June 23, 1912,&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/place\/London\">London<\/a>, England&mdash;died June 7, 1954, Wilmslow, Cheshire),&nbsp;<span class=\"qa-answer-4 topic-qa-answer\">British mathematician and logician, who made major contributions to&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/mathematics\">mathematics<\/a>,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/cryptology\">cryptanalysis<\/a>,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/logic\">logic<\/a>,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/philosophy\">philosophy<\/a>, and mathematical&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/science\/biology\">biology<\/a>&nbsp;and also to the new areas later named&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/computer-science\">computer science<\/a>,&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/science\/cognitive-science\">cognitive science<\/a>,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/artificial-intelligence\">artificial intelligence<\/a>, and&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/technology\/artificial-life\">artificial life<\/a>.<\/span><\/p>\n<h2 class=\"h1\">Early Life And Career<\/h2>\n<p><span class=\"qa-answer-3 topic-qa-answer\">The son of a civil servant, Turing was educated at a top private school.<\/span>&nbsp;<span class=\"qa-answer-1 topic-qa-answer\">He entered the&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/University-of-Cambridge\">University of Cambridge<\/a>&nbsp;to study mathematics in 1931.<\/span>&nbsp;After graduating in 1934, he was elected to a fellowship at&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/topic\/Columbia-University\">King&rsquo;s College<\/a>&nbsp;(his college since 1931) in recognition of his research in&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/probability-theory\">probability theory<\/a>. In 1936 Turing&rsquo;s&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/seminal\" data-term=\"seminal\">seminal<\/a>&nbsp;paper &ldquo;<span id=\"ref710077\"><\/span>On Computable Numbers, with an Application to the&nbsp;<em>Entscheidungsproblem<\/em>&nbsp;[<span id=\"ref703935\"><\/span>&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/decision-problem\">Decision Problem<\/a>]&rdquo; was recommended for publication by the American mathematical logician&nbsp;<span id=\"ref710062\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/biography\/Alonzo-Church\">Alonzo Church<\/a>, who had himself just published a paper that reached the same conclusion as Turing&rsquo;s, although by a different method. Turing&rsquo;s method (but not so much Church&rsquo;s) had profound significance for the emerging science of computing.&nbsp;<span class=\"qa-answer-1 topic-qa-answer\">Later that year Turing moved to&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/topic\/Princeton-University\">Princeton University<\/a>&nbsp;to study for a Ph.D. in&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/topic\/formal-logic\">mathematical logic<\/a>&nbsp;under Church&rsquo;s direction (completed in 1938).<\/span><\/p>\n<div class=\"md-sentinel--spy-target\">&nbsp;<\/div>\n<section id=\"ref330984\" data-level=\"2\" data-has-spy=\"true\">\n<h2 class=\"h2\">The&nbsp;<em>Entscheidungsproblem<\/em><\/h2>\n<p>What mathematicians called an &ldquo;effective&rdquo; method for solving a problem was simply one that could be carried by a human mathematical clerk working by rote. In Turing&rsquo;s time, those rote-workers were in fact called &ldquo;computers,&rdquo; and human computers carried out some aspects of the work later done by electronic computers. The&nbsp;<em>Entscheidungsproblem<\/em>&nbsp;sought an effective method for solving the fundamental mathematical problem of determining exactly which mathematical statements are provable within a given formal mathematical system and which are not. A method for determining this is called a decision method. In 1936 Turing and Church independently showed that, in general, the&nbsp;<em>Entscheidungsproblem<\/em>&nbsp;problem has no resolution, proving that no consistent&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/topic\/formal-system\">formal system<\/a>&nbsp;of arithmetic has an effective decision method. In fact, Turing and Church showed that even some purely logical systems, considerably weaker than arithmetic, have no effective decision method. This result and others&mdash;notably mathematician-logician&nbsp;<span id=\"ref710066\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/biography\/Kurt-Godel\">Kurt G&ouml;del<\/a>&rsquo;s incompleteness results&mdash;dashed the hopes, held by some mathematicians, of discovering a formal system that would reduce the whole of mathematics to methods that (human) computers could carry out. It was in the course of his work on the&nbsp;<em>Entscheidungsproblem<\/em>&nbsp;that Turing invented the universal Turing machine, an abstract computing machine that&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/encapsulates\" data-term=\"encapsulates\">encapsulates<\/a>&nbsp;the fundamental logical principles of the&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/technology\/digital-computer\">digital computer<\/a>.<\/p>\n<h2 class=\"h2\">The Church-Turing thesis<\/h2>\n<p>An important step in Turing&rsquo;s argument about the&nbsp;<em>Entscheidungsproblem<\/em>&nbsp;was the claim, now called the&nbsp;<span id=\"ref704266\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/Churchs-thesis\">Church-Turing thesis<\/a>, that everything humanly computable can also be computed by the universal Turing machine. The claim is important because it marks out the limits of human computation. Church in his work used instead the thesis that all human-computable functions are identical to what he called lambda-definable functions (functions on the positive integers whose values can be calculated by a process of repeated substitution). Turing showed in 1936 that Church&rsquo;s thesis was equivalent to his own, by proving that every lambda-definable function is computable by the universal Turing machine and vice versa. In a review of Turing&rsquo;s work, Church acknowledged the superiority of Turing&rsquo;s formulation of the thesis over his own (which made no reference to computing machinery), saying that the concept of computability by a Turing machine &ldquo;has the advantage of making the identification with effectiveness&hellip;evident immediately.&rdquo;<\/p>\n<\/section>",
+        "tags": [
+          "computer science",
+          "mathematics"
+        ],
+        "published": true,
+        "title_slug": "alan-turing-british-mathematician-and-logician",
+        "_mby": "5d1aa3003735643b040000b4",
+        "_by": "5d1aa3003735643b040000b4",
+        "_modified": 1591644839,
+        "_created": 1591644839,
+        "_id": "5ede92a7218cc1150629e982"
+      },
+      {
+        "title": "Infant and toddler development",
+        "date": "2020-06-08",
+        "language": "English",
+        "category": "Health & Medicine",
+        "image": {
+          "path": "\/2020\/06\/08\/5ede9161525d0babies-heads.jpg",
+          "title": "babies-heads.jpg",
+          "mime": "image\/jpeg",
+          "description": "",
+          "tags": [],
+          "size": 31511,
+          "image": true,
+          "video": false,
+          "audio": false,
+          "archive": false,
+          "document": false,
+          "code": false,
+          "created": 1591644513,
+          "modified": 1591644513,
+          "_by": "5d1aa3003735643b040000b4",
+          "width": 700,
+          "height": 487,
+          "colors": [
+            "#b99c86",
+            "#2f4648",
+            "#dbdad6",
+            "#946a34",
+            "#774039"
+          ],
+          "folder": "",
+          "_id": "5ede9161f40dd77d9d2a3b25"
+        },
+        "excerpt": "Infant and toddler development, the physical, emotional, behavioral, and mental growth of children from ages 0 to 36 months.",
+        "content": "<p><strong>Infant and toddler development<\/strong>, the physical, emotional, behavioral, and mental growth of&nbsp;<span id=\"ref1184014\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/childhood\">children<\/a>&nbsp;from ages 0 to 36 months.<\/p>\n<p>Different milestones characterize each stage of infant (0 to 12 months) and toddler (12 to 36 months) development. Although most healthy infants and toddlers reach each milestone within a specific window of time, there is much variation as to how wide that window may be. For example,&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/culture\" data-term=\"culture\">culture<\/a>,&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/environment\" data-term=\"environment\">environment<\/a>, socioeconomic status, and genetic factors can influence when an infant or toddler will begin to crawl, walk, or talk. Children who suffer from undernutrition, who lack social stimuli, or who lack access to proper health care may develop more slowly than children in more enriched&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/environments\" data-term=\"environments\">environments<\/a>. Concerns about infant or toddler development arise when milestones are absent or significantly delayed, since such situations may signal an underlying physical or mental condition. Identifying problems early in development is vital to a child&rsquo;s health. Although parents are often the first to raise concerns, teachers and child care workers may spot problems that parents have not noticed or have been afraid to acknowledge. They may also be able to identify abused or neglected children who exhibit abnormal development.<\/p>\n<p>Early in the 20th century,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/child-development-process\">child development<\/a>&nbsp;scholars began to understand that children were not just &ldquo;small adults&rdquo; but individuals with unique personalities and distinct needs. In the 1920s and &rsquo;30s Swiss psychologist&nbsp;<span id=\"ref1184017\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/biography\/Jean-Piaget\">Jean Piaget<\/a>&nbsp;developed a theory that children&rsquo;s&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/cognitive\" data-term=\"cognitive\">cognitive<\/a>&nbsp;abilities progress through four stages. According to Piaget, a sensorimotor stage characterized the first two years of life, during which time a child also becomes aware of the permanence of existence of objects in his or her environment. The work of Russian psychologist&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/biography\/L-S-Vygotsky\">Lev S. Vygotsky<\/a>, which reached English-speaking audiences around the same time as Piaget&rsquo;s research, provided insight into how children think and develop language.<\/p>\n<p>In 1933 the&nbsp;<span id=\"ref1184018\"><\/span>Society for Research in Child Development (SRCD) was established in the&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/place\/United-States\">United States<\/a>&nbsp;to apply new concepts in child development to improving the lives of the country&rsquo;s children. The society initially focused on understanding how&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/poverty\">poverty<\/a>&nbsp;and social deprivation affected development, with the aim of using that knowledge to design policies and programs to&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/alleviate\" data-term=\"alleviate\">alleviate<\/a>&nbsp;the negative effects of poverty. In 1964 U.S. Pres.&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/biography\/Lyndon-B-Johnson\">Lyndon B. Johnson<\/a>&nbsp;launched his&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/topic\/War-on-Poverty\">War on Poverty<\/a>, and in 1965 the&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/Congress-of-the-United-States\">U.S. Congress<\/a>&nbsp;established the&nbsp;<span id=\"ref1184019\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/topic\/Head-Start-Program\">Head Start Program<\/a>, which promotes &ldquo;school readiness&rdquo; for children from&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/science\/birth\">birth<\/a>&nbsp;to five years. The program focuses its efforts on children from low-income families and offers health, nutritional, and social support to enrolled children and families.<\/p>",
+        "tags": [
+          "children",
+          "health",
+          "social"
+        ],
+        "published": true,
+        "title_slug": "infant-and-toddler-development",
+        "_mby": "5d1aa3003735643b040000b4",
+        "_by": "5d1aa3003735643b040000b4",
+        "_modified": 1591644601,
+        "_created": 1591644601,
+        "_id": "5ede91b96b8dea205d365d53"
+      },
+      {
+        "title": "Metabolism",
+        "date": "2020-06-08",
+        "language": "English",
+        "category": "Health & Medicine",
+        "image": {
+          "path": "\/2020\/06\/08\/5ede8fea53366Hepatocyte-cells-mitochondria-liver-respiration-Site-Endoplasmic.jpg",
+          "title": "Hepatocyte-cells-mitochondria-liver-respiration-Site-Endoplasmic.jpg",
+          "mime": "image\/jpeg",
+          "description": "",
+          "tags": [],
+          "size": 115133,
+          "image": true,
+          "video": false,
+          "audio": false,
+          "archive": false,
+          "document": false,
+          "code": false,
+          "created": 1591644138,
+          "modified": 1591644138,
+          "_by": "5d1aa3003735643b040000b4",
+          "width": 700,
+          "height": 465,
+          "colors": [
+            "#932b38",
+            "#e6ca35",
+            "#23647e",
+            "#807eb7",
+            "#e16835"
+          ],
+          "folder": "",
+          "_id": "5ede8feaf40dd77d9d2a3b24"
+        },
+        "excerpt": "Metabolism, the sum of the chemical reactions that take place within each cell of a living organism and that provide energy for vital processes and for synthesizing new organic material.",
+        "content": "<p><strong>Metabolism<\/strong>, the sum of the&nbsp;<span id=\"ref507545\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/chemical-reaction\">chemical reactions<\/a>&nbsp;that take place within each&nbsp;<span id=\"ref507544\"><\/span><a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/cell-biology\">cell<\/a>&nbsp;of a living organism and that provide energy for vital processes and for synthesizing new organic material.<\/p>\n<p>Living organisms are unique in that they can extract&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/energy\">energy<\/a>&nbsp;from their&nbsp;<a class=\"md-dictionary-link md-dictionary-tt-off\" href=\"https:\/\/www.merriam-webster.com\/dictionary\/environments\" data-term=\"environments\">environments<\/a>&nbsp;and use it to carry out activities such as movement,&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/growth-biology\">growth<\/a>&nbsp;and&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/science\/biological-development\">development<\/a>, and&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/reproduction-biology\">reproduction<\/a>. But how do living organisms&mdash;or, their cells&mdash;extract energy from their environments, and how do cells use this energy to synthesize and assemble the components from which the cells are made?<\/p>\n<p>The answers to these questions lie in the&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/enzyme\">enzyme<\/a>-mediated chemical reactions that take place in living matter (metabolism). Hundreds of coordinated, multistep reactions, fueled by energy obtained from nutrients and\/or&nbsp;<a class=\"md-crosslink autoxref\" href=\"https:\/\/www.britannica.com\/science\/solar-energy\">solar energy<\/a>, ultimately convert readily available materials into the molecules required for growth and maintenance.<\/p>\n<div class=\"ora-tv-container\">\n<div class=\"cnx-resize-triggers\">\n<div class=\"cnx-expand-trigger\">&nbsp;<\/div>\n<\/div>\n<\/div>\n<p>The physical and chemical properties of the components of living things dealt with in this article are found in the articles&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/carbohydrate\">carbohydrate<\/a>;&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/cell-biology\">cell<\/a>;&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/hormone\">hormone<\/a>;&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/lipid\">lipid<\/a>;&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/photosynthesis\">photosynthesis<\/a>; and&nbsp;<a class=\"md-crosslink\" href=\"https:\/\/www.britannica.com\/science\/protein\">protein<\/a>.<\/p>",
+        "tags": [
+          "enzyme",
+          "energy",
+          "lipid"
+        ],
+        "published": true,
+        "title_slug": "metabolism",
+        "_mby": "5d1aa3003735643b040000b4",
+        "_by": "5d1aa3003735643b040000b4",
+        "_modified": 1591644239,
+        "_created": 1591644239,
+        "_id": "5ede904ff7fbc766e80b1a23"
+      },
+      {
+        "title": "Is \"Holland\" the Same Place as \"the Netherlands\"?",
+        "date": "2020-06-08",
+        "language": "English",
+        "category": "Geography & Travel",
+        "image": {
+          "path": "\/2020\/06\/08\/5ede8f4d0c8b2Map-Netherlands.jpg",
+          "title": "Map-Netherlands.jpg",
+          "mime": "image\/jpeg",
+          "description": "",
+          "tags": [],
+          "size": 107557,
+          "image": true,
+          "video": false,
+          "audio": false,
+          "archive": false,
+          "document": false,
+          "code": false,
+          "created": 1591643981,
+          "modified": 1591643981,
+          "_by": "5d1aa3003735643b040000b4",
+          "width": 800,
+          "height": 992,
+          "colors": [
+            "#bfd1ce",
+            "#3b4c4a",
+            "#82b2c6",
+            "#b8934b",
+            "#705c48"
+          ],
+          "folder": "",
+          "_id": "5ede8f4d4697a96c09764141"
+        },
+        "excerpt": "People often use the terms \"Holland\" and \"the Netherlands\" interchangeably, but they don't match up exactly.",
+        "content": "<p><strong>People often use the terms \"Holland\" and \"the Netherlands\" interchangeably, but they don't match up exactly.<\/strong> The official name of the northwestern European land of tulips and windmills is \"Koninkrijk der Nederlanden,\" or Kingdom of the Netherlands. It was founded in 1579 as a union of various provinces and cities who resisted rule by the Spanish. One of these provinces was the province of Holland (now divided into Noord [North] Holland and Zuid [South] Holland), which originated in the 12th century as a fief of the Holy Roman Empire. Even after the provinces of the Netherlands united, Holland was still the dominant region. The cities of Amsterdam, Rotterdam, and The Hague are in the Hollands. Thus, a lot of the economic and political dealings outside countries had were with the Hollands, and the name \"Holland\" continues to be popular with foreigners.<\/p>",
+        "tags": [
+          "holland"
+        ],
+        "published": true,
+        "title_slug": "is-holland-the-same-place-as-the-netherlands",
+        "_mby": "5d1aa3003735643b040000b4",
+        "_by": "5d1aa3003735643b040000b4",
+        "_modified": 1591644049,
+        "_created": 1591644049,
+        "_id": "5ede8f91f40dd77d9d2a3b22"
+      },
+      {
+        "title": "Why New York Is Called \"The Big Apple\" and How 8 Other Famous Cities Got Their Nicknames",
+        "date": "2020-06-08",
+        "language": "English",
+        "category": "Geography & Travel",
+        "image": {
+          "path": "\/2020\/06\/08\/5ede8e4cb59bfNew-York-York.jpg",
+          "title": "New-York-York.jpg",
+          "mime": "image\/jpeg",
+          "description": "",
+          "tags": [],
+          "size": 87198,
+          "image": true,
+          "video": false,
+          "audio": false,
+          "archive": false,
+          "document": false,
+          "code": false,
+          "created": 1591643724,
+          "modified": 1591643724,
+          "_by": "5d1aa3003735643b040000b4",
+          "width": 800,
+          "height": 600,
+          "colors": [
+            "#bfc4c5",
+            "#1c252e",
+            "#5e6366",
+            "#4a4746",
+            "#5b5649"
+          ],
+          "folder": "",
+          "_id": "5ede8e4c11683e44da447a95"
+        },
+        "excerpt": "New York City is known by many nicknames—such as “the City that Never Sleeps” or “Gotham”—but the most popular one is probably “the Big Apple.”",
+        "content": "<p><a href=\"https:\/\/www.britannica.com\/place\/New-York-City\">New York City<\/a>&nbsp;is known by many nicknames&mdash;such as &ldquo;the City that Never Sleeps&rdquo; or &ldquo;Gotham&rdquo;&mdash;but the most popular one is probably &ldquo;the Big Apple.&rdquo; How did this nickname come about? Although uses of the phrase are documented in the early 1900s, the term first became popular in the 1920s when John J. Fitz Gerald, a sports writer, started a column about horse racing called &ldquo;Around the Big Apple.&rdquo; However, it wasn&rsquo;t until a tourism campaign in the 1970s that the nickname came to be synonymous with New York City.<\/p>",
+        "tags": [
+          "big apple",
+          "gotham"
+        ],
+        "published": true,
+        "title_slug": "why-new-york-is-called-the-big-apple-and-how-8-other-famous-cities-got-their-nicknames",
+        "_mby": "5d1aa3003735643b040000b4",
+        "_by": "5d1aa3003735643b040000b4",
+        "_modified": 1591643807,
+        "_created": 1591643807,
+        "_id": "5ede8e9f6b8dea205d365d51"
+      }
+    ],
+    "total": 6
+  }
